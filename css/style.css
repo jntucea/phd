@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+padding:0;
+margin:0;
+    background:blue;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    -moz-background-size: cover;
+font-family: 'Open Sans', sans-serif !important;
+}
+
+h1{text-align:center}
+.main{
+    width: 75%;
+	height:100%;
+    margin: 45px auto;
+    background:skyblue;
+    padding: 30px 30px;
+}
+.content{
+	padding:50px 0;
+}
+
+
+.line{width:100%;
+height:100%;
+height:25px;
+}
+.text{float:left;
+		width:50%;
+		 font-size:100%;
+		 height:25px}
+.fields{float:right;width:400px;height:25px}
+
+.textarea{    width: 400px;;
+}
